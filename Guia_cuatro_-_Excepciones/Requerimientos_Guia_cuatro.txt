@@ -1,0 +1,9 @@
+Agregar manejo de excepciones a los ejercicios 1, 2 y 3 de cada una de las tres partes de la guía número 1.
+
+* Es decir:
+
+- Parte 1: Lineales (ejercicios 1 al 3).
+
+- Parte 2: Condicionales (ejercicios 1 al 3).
+
+- Parte 3: Iteracion (ejercicios 1 al 3).
